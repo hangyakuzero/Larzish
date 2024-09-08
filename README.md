@@ -4,19 +4,14 @@ A simple tool to generate unlimited AI images with flux
 
 ## Usage
 
-`go run gain.go`
+Just `go run .`
 
-then just enter the number of prompts
-and then enter the prompts
+A Web UI is then the accessible at `http://localhost:8080`
 
-a text file containing the urls will be generated
+Just enter your prompt and press `GENERATE`. Click on any image to download it.
 
-now enter the command
-`go run cain.go` 
-this will create a html file with the images
+## Screenshots
 
-## Video Demonstrating the Usage (Youtube)
-
-[![Watch the video](https://i.imgflip.com/853nb8.jpg)](https://www.youtube.com/watch?v=kZr7yd_Y_Eg)
+![](imgs/screenshot_1.png)
 
 
