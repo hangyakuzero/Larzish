@@ -10,7 +10,7 @@ then just enter the number of prompts
 and then enter the prompts
 
 a text file containing the urls will be generated
-``
+
 now enter the command
 `go run cain.go` 
 this will create a html file with the images
